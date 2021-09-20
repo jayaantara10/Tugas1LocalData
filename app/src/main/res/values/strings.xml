@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas1LocalData</string>
+    <string name="note_save">Save</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+
+</resources>
